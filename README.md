@@ -1,1 +1,5 @@
-# hello-world i am trying to learn how to code
+# hello-world 
+
+Hey
+
+ My names Hector and I am nw to coding
